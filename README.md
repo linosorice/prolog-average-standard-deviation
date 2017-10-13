@@ -1,6 +1,6 @@
-# Prolog Average
+# Prolog Average and Standard Deviation
 		
-## SIGNATURE OF METODS
+## Signature of methods
 
 	* average(X): Returns to X the average of all the exams	in the KB.
 	* average(X,Y): Returns to Y the average of the list of exams in X.
